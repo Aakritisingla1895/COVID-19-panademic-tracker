@@ -1,0 +1,9 @@
+matplotlib
+numpy>=1.11.0
+jupyter
+pandas
+scipy
+bs4
+prettytable
+seaborn
+geopandas 
